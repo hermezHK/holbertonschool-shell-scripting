@@ -19,3 +19,5 @@ And hidden files (starting with.)
 [7-movethatfile](./7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory.
 
 [8-firstdelete](./8-firstdelete) - Delete the file betty. The file betty is in /tmp/my_first_directory.
+
+[9-firstdirdeletion](./9-firstdirdeletion) - Delete the directory my_first_directory that is in the /tmp directory.
