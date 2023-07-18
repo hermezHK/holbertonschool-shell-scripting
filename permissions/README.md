@@ -23,4 +23,9 @@ The file hello will be in the working directory You are not allowed to use comma
 [9-John_Doe](./9-John_Doe) - Write a script that sets the mode of the file hello to this:
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 The file hello will be in the working directory
-You are not allowed to use commas for this script. 
+You are not allowed to use commas for this script.
+
+[10-mirror_permissions](./10-mirror_permissions) - Write a script that sets the mode of the file hello the same as olleh’s mode.
+The file hello will be in the working directory
+The file olleh will be in the working directory
+Note: the mode of olleh will not always be 664. Make sure your script works for any mode. 
