@@ -43,5 +43,5 @@ And hidden files (starting with.)
 
 - [16-clean_emacs](./16-clean_emacs) - Create a script that deletes all files in the current working directory that end with the character ~.
 
-- 17-tree](./17-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+- [17-tree](./17-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
