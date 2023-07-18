@@ -28,4 +28,6 @@ You are not allowed to use commas for this script.
 [10-mirror_permissions](./10-mirror_permissions) - Write a script that sets the mode of the file hello the same as olleh’s mode.
 The file hello will be in the working directory
 The file olleh will be in the working directory
-Note: the mode of olleh will not always be 664. Make sure your script works for any mode. 
+Note: the mode of olleh will not always be 664. Make sure your script works for any mode.
+
+[11-directories_permissions](./11-directories_permissions) - Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. 
