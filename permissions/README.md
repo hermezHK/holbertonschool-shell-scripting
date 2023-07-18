@@ -38,3 +38,7 @@ Note: the mode of olleh will not always be 664. Make sure your script works for 
 The file hello will be in the working directory.
 
 [14-change_owner_and_group](./14-change_owner_and_group) - Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+[15-symbolic_link_permissions](./15-symbolic_link_permissions) - Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+The file _hello is in the working directory
+The file _hello is a symbolic link.
