@@ -81,4 +81,12 @@ Based on the the /etc/passwd file.
     One file name per line.
     The listing should end with a new line.
     You are not allowed to use basename, grep, egrep, fgrep or rgrep.
+
+
+[25-acrostic](./25-acrostic) - An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. Read more.
+
+Create a script that decodes acrostics that use the first letter of each line.
+
+    The ‘decoded’ message has to end with a new line.
+    You are not allowed to use grep, egrep, fgrep or rgrep.
  
