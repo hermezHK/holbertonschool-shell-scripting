@@ -1,8 +1,0 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</p>
-
-### Shell, init files, variables and expansions.
-
-[0-alias](./0-alias) - Create a script that creates an alias.
