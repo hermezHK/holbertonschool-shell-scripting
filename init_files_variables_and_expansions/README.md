@@ -35,3 +35,7 @@ POWER and DIVIDE are environment variables.
 [10-love_exponent_breath](./10-love_exponent_breath) - Write a script that displays the result of BREATH to the power LOVE
 BREATH and LOVE are environment variables.
 The script should display the result, followed by a new line.
+
+[11-binary_to_decimal](./11-binary_to_decimal) - Write a script that converts a number from base 2 to base 10.
+The number in base 2 is stored in the environment variable BINARY.
+The script should display the number in base 10, followed by a new line.
