@@ -56,3 +56,5 @@ The number will be stored in the environment variable NUM.
     The script should display the number in base 16, followed by a new line.
 
 [16-rot13](./15-rot13) - Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+[17-odd](./16-odd) - Write a script that prints every other line from the input, starting with the first line. 
